@@ -1,0 +1,14 @@
+{
+  "name": "clase06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejerClase06.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ejerClase06.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
