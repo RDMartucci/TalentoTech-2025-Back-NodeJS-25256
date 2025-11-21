@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Billy",
+        "lastName": "Boy",
+        "age": 50,
+        "email": "broncobilly07@gmail.com",
+        "password": "1234",
+        "isAdmin": true
+    },{
+        "id": 2,
+        "name": "Ana",
+        "lastName": "Smith",
+        "age": 30,
+        "email": "anasmith@gmail.com",
+        "password": "abcd",
+        "isAdmin": false
+    },{
+        "id": 3,
+        "name": "John",
+        "lastName": "Doe",
+        "age": 25,
+        "email": "johndoe@gmail.com",
+        "password": "xyz123",
+        "isAdmin": false
+    },{
+        "id": 4,
+        "name": "Maria",
+        "lastName": "Garcia",
+        "age": 28,
+        "email": "mariagarcia@gmail.com",
+        "password": "pass456",
+        "isAdmin": false
+    },{
+        "id": 5,
+        "name": "Bubita",
+        "lastName": "Segura",
+        "age": 43,
+        "email": "bubita@gmail.com",
+        "password": "secure789",
+        "isAdmin": true
+    }
+]

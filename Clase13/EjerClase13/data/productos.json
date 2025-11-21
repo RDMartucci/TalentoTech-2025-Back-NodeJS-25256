@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Producto 1",
+        "price": 1000,
+        "category": "Categoria A",
+        "description": "Descripcion del Producto 1",
+        "rating": 4.5
+    },{
+        "id": 2,
+        "name": "Producto 2",
+        "price": 2500,
+        "category": "Categoria B",
+        "description": "Descripcion del Producto 2",
+        "rating": 4.0
+    },{
+        "id": 3,
+        "name": "Producto 3",
+        "price": 3333,
+        "category": "Categoria A",
+        "description": "Descripcion del Producto 3",
+        "rating": 3.5
+    },{
+        "id": 4,
+        "name": "Producto 4",
+        "price": 44700,
+        "category": "Categoria C",
+        "description": "Descripcion del Producto 4",
+        "rating": 5.0
+    },{
+        "id": 5,
+        "name": "Producto 5",
+        "price": 5077,
+        "category": "Categoria B",
+        "description": "Descripcion del Producto 5"
+        
+    }
+]
